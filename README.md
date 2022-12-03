@@ -3,6 +3,9 @@ somehting went wrong with the Win10 update and patch, CH340 &amp; CP2102 enumate
 
 ![CH340_wrong.JPG](CH340_wrong.JPG)  
 
+### win10 auto/manuall install driver, did not work!!!
+https://www.catalog.update.microsoft.com/Home.aspx
+
 
 ### CP210x Universal Windows Driver
 v11.2.0  
