@@ -1,0 +1,14 @@
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\arm
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\arm64
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\CP210x_Universal_Windows_Driver_ReleaseNotes.txt
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\list.bat
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\list.txt
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\silabser.cat
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\silabser.inf
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\SLAB_License_Agreement_VCP_Windows.txt
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\x64
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\x86
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\arm\silabser.sys
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\arm64\silabser.sys
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\x64\silabser.sys
+\CP210x_Universal_Windows_Driver_v11.2.0_2022-10-21\x86\silabser.sys
